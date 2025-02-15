@@ -12,10 +12,5 @@ spring.security.user.password=admin123
 server.servlet.session.timeuot=60s
 
 
-
+#excludem endpoimn
 management.enpoints.web.exposure.exclude=health,info
-
-info.app.name=demo spring security
-info.app.author=sorin gore
-info.app.version=0.0.4
-
